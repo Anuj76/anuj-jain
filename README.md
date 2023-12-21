@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Anuj Jain</h1>
 <h3 align="center">I am an end to end application developer, who wants to implement his knowledge and experience in real world .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
